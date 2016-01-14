@@ -12,6 +12,9 @@ namespace cis237inclass1
         {
             Console.WriteLine("Here is some text");
             Console.WriteLine("Here is some more text");
+
+            Console.WriteLine("Text for second commmit");
+            Console.WriteLine("And some more");
         }
     }
 }
